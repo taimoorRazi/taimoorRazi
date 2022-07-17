@@ -1,11 +1,6 @@
 ### Hi there 👋
 
-<!--
-**taimoorRazi/taimoorRazi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on my data science portfolio
+- 🔭 I’m currently working on multiple end to end data science projects
 - 🌱 I’m currently learning machine learning pipeline deployment through various platforms and architectures
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
