@@ -1,4 +1,5 @@
 ### Hi there 👋
+An Engineering graduate with a passion for Data Science in Technology Industry. Skilled and motivated engineer with strong statistical concepts and data analytics skills with experience in developing end to end machine learning pipelines adhering to MLOps principles and standards. I am seeking a challenging role in a firm that promotes learning where I can use my skills to provide value to the company through the lens of data.
 
 - 🔭 I’m currently working on multiple end to end data science projects
 - 🌱 I’m currently learning machine learning pipeline deployment through various platforms and architectures
