@@ -61,15 +61,6 @@ My name is Taimoor and I am a self learned Data Scientist who loves to work on c
       />
       <br /><strong>Flask</strong>
     </td>
-      <td align="center" height="108" width="108">
-      <img
-        src="https://iconape.com/wp-content/files/yw/17681/png/cib-django.png"
-        width="48"
-        height="48"
-        alt="Django"
-      />
-      <br /><strong>Django</strong>
-    </td>
       </td>
       <td align="center" height="108" width="108">
       <img
