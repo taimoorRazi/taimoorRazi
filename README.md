@@ -64,12 +64,12 @@ My name is Taimoor and I am a self learned Data Scientist who loves to work on c
       </td>
       <td align="center" height="108" width="108">
       <img
-        src="https://upload.wikimedia.org/wikiversity/en/8/8c/FastAPI_logo.png"
+        src="https://logos-download.com/wp-content/uploads/2019/06/Django_Logo.png"
         width="48"
         height="48"
-        alt="FastAPI"
+        alt="Django"
       />
-      <br /><strong>FastAPI</strong>
+      <br /><strong>Django</strong>
     </td>
         </td>
           <td align="center" height="108" width="108">
